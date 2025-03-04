@@ -35,4 +35,4 @@ with sliding mode controlled flapping
 
 only imitated stroking
 
-`ros2 launch turtle_motion_rft with_flapping.launch.py`
+`ros2 launch turtle_motion_rft only_stroke.launch.py`
