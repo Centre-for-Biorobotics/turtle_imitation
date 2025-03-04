@@ -1,4 +1,4 @@
-# Relative phase transfer based turtle imitation motion ros2 node
+# Relative phase transition based turtle imitation motion ros2 node
 
 ![overview](https://github.com/user-attachments/assets/c7be8045-2285-44e5-a50c-6c1399069f63)
 
