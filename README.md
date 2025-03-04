@@ -1,4 +1,8 @@
 # Relative phase transfer based turtle imitation motion ros2 node
+
+![overview](https://github.com/user-attachments/assets/c7be8045-2285-44e5-a50c-6c1399069f63)
+
+
 **The related paper has been under the review, depending on that result, the public state may change**
 
 This script for quick testing imitating motion on eeUVsim with pre-trained model. It is implemented with ros2. This implementation is based on the machine learning with tensorflow, but it should work on tiny CPU environment without GPU.
