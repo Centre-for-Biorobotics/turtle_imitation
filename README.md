@@ -40,3 +40,7 @@ with sliding mode controlled flapping
 only imitated stroking
 
 `ros2 launch turtle_motion_rft only_stroke.launch.py`
+
+Then you can see the robot and imitated motion!
+
+![Animation](https://github.com/user-attachments/assets/f9fffe82-9200-4e80-bfd5-47eba3e1b859)
